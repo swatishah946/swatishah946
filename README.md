@@ -41,11 +41,25 @@ I am a 3rd-year **Computer Science & Engineering** student at **IIIT Kota** prof
 ---
 
 ### 📊 Performance Metrics
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swatishah946&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Swati's Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatishah946&layout=donut&theme=transparent&hide=css,html" alt="Top Languages" />
-   <img height="180em" src="https://leetcode-stats-six.vercel.app/?username=swatishah946&theme=dark" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/swatishah946/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Knight_1870+-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Knight" />
+  </a>
+  
+  <a href="https://codeforces.com/profile/swatishah946" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Pupil_1300+-1f8acb?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Pupil" />
+  </a>
+
+  <br/><br/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swatishah946&show_icons=true&theme=transparent&hide_border=true&hide=streak&count_private=true" alt="Swati's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatishah946&layout=donut&theme=transparent&hide=css,html&cache_seconds=1800" alt="Top Languages" />
 </div>
+
+<p align="center">
+  <i>Knight @LeetCode | 540+ Problems Solved | Full-Stack Developer</i>
+</p>
 
 ---
 
