@@ -42,8 +42,9 @@ I am a 3rd-year **Computer Science & Engineering** student at **IIIT Kota** prof
 
 ### 📊 Performance Metrics
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swatishah946&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="Swati's Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatishah946&layout=donut&theme=transparent" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swatishah946&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Swati's Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatishah946&layout=donut&theme=transparent&hide=css,html" alt="Top Languages" />
+   <img height="180em" src="https://leetcode-stats-six.vercel.app/?username=swatishah946&theme=dark" alt="LeetCode Stats" />
 </div>
 
 ---
