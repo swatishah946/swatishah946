@@ -3,9 +3,9 @@
 </div>
 
 ### 🚀 About Me
-I am a 3rd-year **Computer Science & Engineering** student at **IIIT Kota** proficient in **C++, Systems Programming, and Full-Stack AI Development**. I bridge the gap between complex AI research and scalable production-grade applications.
+I am a final-year **Computer Science & Engineering** student at **IIIT Kota** proficient in **C++, Systems Programming, and Full-Stack AI Development**. I bridge the gap between complex AI research and scalable production-grade applications.
 
-- ⚡ **Competitive Programming:** **Knight** @LeetCode (1870+, Top 6%) | solved **540+ DSA problems**.
+- ⚡ **Competitive Programming:** **Knight** @LeetCode (1870+, Top 6%) | solved **750+ DSA problems**.
 - 🤖 **AI Expertise:** Architecting **RAG pipelines** and **Graph Neural Networks** for real-world localization and learning systems.
 - 🏗️ **Systems Thinking:** Focused on building **fault-tolerant services** using patterns like Circuit Breakers and Exponential Backoff.
 - 📫 **Contact:** [shahswati946@gmail.com](mailto:shahswati946@gmail.com) | [LinkedIn](https://linkedin.com/in/swati-shah-544977286)
@@ -16,9 +16,9 @@ I am a 3rd-year **Computer Science & Engineering** student at **IIIT Kota** prof
 
 | Category | Skills |
 | :--- | :--- |
-| **Frontend** | React.js, Vite, Tailwind CSS, Framer Motion, Locomotive Scroll |
+| **Frontend** | React.js, Vite, Tailwind CSS, Framer Motion, Locomotive Scroll , Next.js, Typescript |
 | **Backend** | Node.js, Express.js, Django, RESTful APIs, Socket.io |
-| **Databases** | PostgreSQL, MongoDB, MongoDB Atlas Vector Search |
+| **Databases** | PostgreSQL, MongoDB, MongoDB Atlas Vector Search, Redis |
 | **DevOps/AI** | Docker, Microsoft Azure, Gemini, LangChain, Git/GitHub |
 
 <p align="left">
@@ -28,6 +28,7 @@ I am a 3rd-year **Computer Science & Engineering** student at **IIIT Kota** prof
 ### 🏆 Featured Projects
 
 #### 🌐 Full-Stack & AI
+* **NexusDesk:** Automating manual data entry for local businesses using  **WhatsApp voice notes and AI**.
 * **NexusDesk:** AI Support System using **Django & React**. Implemented RBAC and deployed via **Docker** on **Azure VM** (99.9% uptime).
 * **NowledgeHub:** AI Learning Platform using **MERN & Gemini**. Engineered a **RAG pipeline** with 92% retrieval accuracy.
 
