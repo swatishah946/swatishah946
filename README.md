@@ -28,7 +28,7 @@ I am a final-year **Computer Science & Engineering** student at **IIIT Kota** pr
 ### 🏆 Featured Projects
 
 #### 🌐 Full-Stack & AI
-* **NexusDesk:** Automating manual data entry for local businesses using  **WhatsApp voice notes and AI**.
+* **VoiceKhata:** Automating manual data entry for local businesses using  **WhatsApp voice notes and AI**.
 * **NexusDesk:** AI Support System using **Django & React**. Implemented RBAC and deployed via **Docker** on **Azure VM** (99.9% uptime).
 * **NowledgeHub:** AI Learning Platform using **MERN & Gemini**. Engineered a **RAG pipeline** with 92% retrieval accuracy.
 
